@@ -26,6 +26,13 @@ main {
     vertical-align: bottom;
 }
 
+#special_character {
+    color: white;
+    font-size: 15px;
+    padding: 7px 12px;
+    border-radius: 15px;
+}
+
 /*** CLASS ***/
 
 .title_logo {
@@ -93,6 +100,49 @@ main {
 /* fine sezione add */
 
 .list_container {
-    /* background-color: red;
-    height: 200px; */
+    background-color:white;
+    padding-top: 40px;
+    padding-left: 40px;
 }
+
+.list_section {
+    margin-bottom: 40px;
+}
+
+.title_section {
+    font-size: 20px;
+}
+
+.normal_text {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* inizio caratteri speciali con diversi colori */
+
+.color_special_blu {
+    background-color: blue;
+}
+
+.color_special_violet {
+    background-color: violet;
+}
+
+.color_special_green {
+    background-color: green;
+}
+
+.color_special_orange {
+    background-color: orange;
+}
+
+.color_special_pink {
+    background-color: pink;
+}
+
+.color_special_yellow {
+    background-color: yellow;
+}
+
+/* fine caratteri speciali */
