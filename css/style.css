@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#logo {
+    width: 50px;
+    vertical-align: bottom;
+}
+
+.titolo_logo {
+    display: inline-block;
+    font-size: 40px;
+    line-height: 50px;    
+}
